@@ -14,12 +14,12 @@ Here's how I think about what I do: idea → prototype in code → measure impac
 
 ## Some Things I've Shipped
 
-| Project | What I did | Impact |
+| Project | What I did | Impact | 
 |---|---|---|
-| **Bhava** | AI diagramming tool, 0 to 1. Focused on activation and trust in AI UX | Activation 38% → 60% |
-| **PushOwl AI** | Built GenAI campaign workflows for e-commerce merchants | Campaign completion +35% |
+| **Bhava** | AI diagramming tool, 0 to 1. Focused on activation and trust in AI UX | #5 Product of the day |
+| **PushOwl AI** | Built GenAI campaign workflows for e-commerce merchants | Campaign completion +35% | 
 | **PushOwl PLG** | Redesigned the trial-to-paid experience with product-led growth patterns | 40% conversion lift |
-| **Branch Design System** | Set up component governance for a React design system | QA time reduced by 50% |
+| **Branch Design System** | Set up complete design system library | Designing reduced by 50% |
 
 When I document work, the structure is always: Problem → Architecture → Why this approach → Tradeoffs → What I'd improve next. Open a case study and you should see how I think about edge cases, constraints, and long-term maintenance, not just the happy path.
 
