@@ -1,6 +1,6 @@
 # Hi, I'm Riya 👋
 
-I'm a product designer who builds in code. Most of my work lives at the intersection of AI, UX, and real activation outcomes, not just pretty prototypes that die in Figma.
+I'm a product designer who builds. Most of my work lives at the intersection of AI, UX, and real activation outcomes, not just pretty prototypes that die in Figma.
 
 Here's how I think about what I do: idea → prototype in code → measure impact → refine or kill fast. That loop is everything. On most projects, I'm sitting between PM, engineering, and users, making sure whatever we ship is both shippable and actually worth shipping.
 
