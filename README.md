@@ -8,7 +8,7 @@ Here's how I think about what I do: idea → prototype in code → measure impac
 
 ## What I Work On
 
-**Product-led growth flows** that move signups to "aha" fast. **AI UX patterns** that build trust without dumping explanations on users. **React design systems** that teams can actually maintain at scale. And a lot of **data storytelling**, tying UX changes to metrics, not vibes.
+**Product-led growth flows** that move signups to "aha" fast. **AI UX patterns** that build trust without dumping explanations on users. **Design systems** that teams can actually maintain at scale. And a lot of **data storytelling**, tying UX changes to metrics, not vibes.
 
 ---
 
