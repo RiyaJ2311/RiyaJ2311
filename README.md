@@ -6,13 +6,13 @@ Here's how I think about what I do: idea → prototype in code → measure impac
 
 ---
 
-## What I Work On
+## What I work on
 
 **Product-led growth flows** that move signups to "aha" fast. **AI UX patterns** that build trust without dumping explanations on users. **Design systems** that teams can actually maintain at scale. And a lot of **data storytelling**, tying UX changes to metrics, not vibes.
 
 ---
 
-## Some Things I've Shipped
+## Some things I've shipped
 
 | Project | What I did | Impact | 
 |---|---|---|
@@ -25,10 +25,11 @@ When I document work, the structure is always: Problem → Architecture → Why 
 
 ---
 
-## What I'm Exploring Right Now
+## What I'm exploring right now
 
-- Better AI onboarding flows that build trust incrementally
+- Trying to learn code properly
 - Evaluation loops for AI features: when to show, when to hide, when to ask for feedback
+- Better AI onboarding flows that build trust incrementally
 - Bridging design tokens to front-end systems without creating yet another layer of chaos
 
 ---
